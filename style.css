@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+body{
+    background-color: rgba(250, 235, 215, 0.068);
+}
+.tableDesign{
+    background-color: rgba(255, 228, 196, 0.418);
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+footer{
+    background-color: rgba(255, 228, 196, 0.418);
+}
+.uppercase{
+       text-transform: uppercase;
+}
+header{
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+table tbody tr td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.asterick{
+    color: red;
+}
+.greentext{
+    color: rgb(14, 233, 14);
+}
+.bluetext{
+    color: blue;
+}
